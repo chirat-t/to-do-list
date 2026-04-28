@@ -26,7 +26,7 @@
 
 ## 🚀 Installation & Setup
 1. Clone Repository นี้ลงเครื่อง
-2. เข้าไปที่ `/server` รัน `npm install` และตั้งค่า `.env` (ดูได้จาก `.env.example`)
+2. เข้าไปที่ `/server` รัน `npm install` สร้างไฟล์ `.env` และตั้งค่า  (ดูได้จาก `.env.example`)
 3. เข้าไปที่ `/my-app` รัน `npm install`
 ### Run 
 - เปิด 2 Terminal
