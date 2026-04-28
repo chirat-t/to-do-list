@@ -28,4 +28,7 @@
 1. Clone Repository นี้ลงเครื่อง
 2. เข้าไปที่ `/server` รัน `npm install` และตั้งค่า `.env` (ดูได้จาก `.env.example`)
 3. เข้าไปที่ `/my-app` รัน `npm install`
-4. รัน `npm run dev` ทั้งสองโฟลเดอร์ เพื่อเริ่มใช้งาน
+### Run 
+- เปิด 2 Terminal
+1. เข้าไปที่ `cd server` รัน `node server.js`  เพื่อเริ่มใช้งาน server
+2. เข้าไปที่ `cd my-app` รัน `npm run dev`  เพื่อเริ่มใช้งาน website
