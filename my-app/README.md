@@ -32,3 +32,11 @@
 - เปิด 2 Terminal
 1. เข้าไปที่ `cd server` รัน `node server.js`  เพื่อเริ่มใช้งาน server
 2. เข้าไปที่ `cd my-app` รัน `npm run dev`  เพื่อเริ่มใช้งาน website
+
+### 🖥️ Application Preview
+<img width="945" height="857" alt="image" src="https://github.com/user-attachments/assets/eec43274-8f38-47c0-bf07-a92286d87074" />
+<img width="942" height="854" alt="image" src="https://github.com/user-attachments/assets/e2d36173-bee8-4e15-9e1f-a41b0ce99015" />
+<img width="942" height="850" alt="image" src="https://github.com/user-attachments/assets/a780358a-67ad-4ba0-ae32-f67aa4da8a94" />
+<img width="1358" height="939" alt="image" src="https://github.com/user-attachments/assets/57dff37f-3bb4-4284-bf87-e5862b5229d4" />
+<img width="1359" height="936" alt="image" src="https://github.com/user-attachments/assets/d27f2faa-b50d-4f80-9c78-6cfe6a542aa8" />
+<img width="1353" height="937" alt="image" src="https://github.com/user-attachments/assets/8c7254a6-0b62-454f-98bd-b1d1520f9050" />
